@@ -216,6 +216,7 @@
 
 ### Debugging / Profiling
 
+- [purdy](https://github.com/danielb2/purdy.js) - Pretty printing objects (a better console.log) to see what's going on.
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience, enabled by Chrome DevTools.
 - [ironNode](https://github.com/s-a/iron-node) - Node.js debugger supporting ES2015 out of the box.
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
